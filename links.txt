@@ -5,5 +5,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
 Pseudo classes selectors
 https://css-tricks.com/pseudo-class-selectors/
 
+especifidad
+https://specificity.keegan.st
 
+html colores
+https://htmlcolorcodes.com
 
