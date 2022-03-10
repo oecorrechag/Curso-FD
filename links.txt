@@ -1,0 +1,9 @@
+
+Pseudo elementos
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
+
+Pseudo classes selectors
+https://css-tricks.com/pseudo-class-selectors/
+
+
+
